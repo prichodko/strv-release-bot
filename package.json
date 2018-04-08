@@ -1,0 +1,31 @@
+{
+  "name": "strv-release-bot",
+  "version": "1.0.0",
+  "description": "Slack channel notifier of new library releases",
+  "main": "index.js",
+  "engines": {
+    "node": ">=6"
+  },
+  "repository": "prichodko/strv-release-bot",
+  "license": "MIT",
+  "author": {
+    "name": "Pavel Prichodko",
+    "email": "prichodko.p@gmail.com"
+  },
+  "dependencies": {
+    "r2": "^2.0.1",
+    "rss-feed-emitter": "^2.0.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "strv",
+    "release",
+    "github",
+    "bot",
+    "slack",
+    "integration",
+    "rss"
+  ]
+}
