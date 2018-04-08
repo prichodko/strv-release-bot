@@ -1,4 +1,4 @@
-# STRV Release Bot 🤖
+![](https://github.com/prichodko/strv-release-bot/blob/master/logo.png?raw=true)
 
 > Never miss an important release
 
